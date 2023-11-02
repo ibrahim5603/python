@@ -1,2 +1,3 @@
 # python
 easy worldlist create tool
+istedğiniz karakterleri girerek basit bir world list oluşturun...
